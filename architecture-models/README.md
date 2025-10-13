@@ -18,7 +18,7 @@ A traditional web application where the frontend, backend, and database access a
 ### ❌ Cons
 - **Hard to maintain:** As the codebase grows, it becomes complex to manage.  
 - **Single point of failure:** If one part breaks, the entire system may fail.  
-- **Difficult debugging:** Tight coupling makes it harder to isolate and fix issues.
+- **Difficult debugging:** Tight coupling makes it harder to isolate and fix issues. 
 
 ---
 
